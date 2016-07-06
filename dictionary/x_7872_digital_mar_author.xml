@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_7872_digital_mar_digital_marketing_artefakt" label="Author" max_length="40" name="x_7872_digital_mar_author" type="collection">
+        <element label="Author URL" max_length="40" name="author_url" type="string"/>
+        <element label="Kürzel" max_length="40" name="kurzel" type="string"/>
+    </element>
+</database>

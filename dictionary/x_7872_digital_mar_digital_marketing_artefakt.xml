@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" extends="cmdb_ci" label="Digital Marketing Artefakt" max_length="40" name="x_7872_digital_mar_digital_marketing_artefakt" type="collection"/>
+</database>

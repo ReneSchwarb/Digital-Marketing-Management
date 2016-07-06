@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="cmdb_rel_type_suggest">
+    <cmdb_rel_type_suggest action="INSERT_OR_UPDATE">
+        <base_class>x_7872_digital_mar_blog</base_class>
+        <child>false</child>
+        <cmdb_rel_type display_value="writes::written by">38705b04db50220078c0f6fdbf961972</cmdb_rel_type>
+        <dependent_class>x_7872_digital_mar_author</dependent_class>
+        <parent>true</parent>
+        <relationship>parent:38705b04db50220078c0f6fdbf961972</relationship>
+        <sys_class_name>cmdb_rel_type_suggest</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-24 12:08:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>fefb5788db50220078c0f6fdbf96195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_7872_digital_mar_blog</sys_name>
+        <sys_package display_value="Digital Marketing Management" source="x_7872_digital_mar">dc3a3a4cdb10220078c0f6fdbf96194d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Digital Marketing Management">dc3a3a4cdb10220078c0f6fdbf96194d</sys_scope>
+        <sys_update_name>cmdb_rel_type_suggest_fefb5788db50220078c0f6fdbf96195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-24 12:08:20</sys_updated_on>
+    </cmdb_rel_type_suggest>
+</record_update>

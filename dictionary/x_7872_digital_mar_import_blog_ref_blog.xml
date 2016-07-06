@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Import Blog Ref Blog" max_length="40" name="x_7872_digital_mar_import_blog_ref_blog" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="BlogLinkText" max_length="40" name="u_bloglinktext" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="BlogLinkToURL" max_length="40" name="u_bloglinktourl" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="BlogURL" max_length="40" name="u_blogurl" type="string"/>
+        <element attributes="import_attribute_name=BlogURL;BlogLinkToURL;BlogLinkText,edge_encryption_enabled=true" label="BlogURL;BlogLinkToURL;BlogLinkText" max_length="358" name="u_blogurl_blog_l_bloglinktext" type="string"/>
+    </element>
+</database>

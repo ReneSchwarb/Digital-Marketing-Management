@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_7872_digital_mar_digital_marketing_artefakt" label="Blog" max_length="40" name="x_7872_digital_mar_blog" type="collection">
+        <element label="BlogDate" max_length="40" name="blogdate" type="glide_date"/>
+        <element label="BlogTitle" max_length="250" name="blogtitle" type="string"/>
+        <element label="BlogURL" max_length="1024" name="blogurl" type="url"/>
+        <index name="index">
+            <element name="blogurl"/>
+        </index>
+    </element>
+</database>
